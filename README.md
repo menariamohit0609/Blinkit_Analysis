@@ -40,7 +40,5 @@ Tier 1 outlets generate maximum revenue compared to other locations.
 Fruits, Snacks, and Frozen items are among the top-performing categories.
 Sales peaked around 2016 and declined afterward.
 Average ratings remain stable across outlet types.
-
 Item Type Sales Performance
-
 Sales by Establishment Year
